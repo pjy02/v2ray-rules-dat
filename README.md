@@ -471,9 +471,9 @@ steamstatic.com.8686c.com @cn
 
 ## 致谢
 
-- [@pjy02/geoip](https://github.com/pjy02/geoip)
+- [@Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)
 - [@v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
-- [@pjy02/domain-list-custom](https://github.com/pjy02/domain-list-custom)
+- [@Loyalsoldier/domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom)
 - [@felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
 - [@gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
 - [@cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq)
